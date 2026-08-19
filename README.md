@@ -6,6 +6,13 @@
 
 Public web-presence repository for the MyZubster ecosystem.
 
+## Community
+
+- 🌐 [MyZubster Community Hub](https://coal-lilac-ef7.notion.site/MyZubster-Community-Hub-3c1b5d1556838132af4cc7cb258d60ec)
+- 💬 [Join the MyZubster Slack community](https://join.slack.com/t/nuovaareadila-ml19359/shared_invite/zt-47dxpvwio-ZIkNdYv5Uk_glAilUiVnkg)
+
+Use the Community Hub for contributor onboarding, public documentation and ecosystem guidance. Use Slack for discussion and contributor coordination.
+
 ## Status
 
 **Bootstrap / synchronization required.** The repository was empty when the ecosystem structure was audited. The live/deployed website must not be assumed to match this repository until its source, build configuration and deployment process are intentionally synchronized.
